@@ -1,7 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
-* [Einleitung](einleitung.md)
+* [Einleitung](README.md)
 
 ## Schreiben
 * GitBooks bei GitBook.com entwickeln und hosten
@@ -56,4 +55,3 @@
     * [Installation unter Mac OS](installation/mac.md)
     * [Installation unter Windows](installation/windows.md)
 * [Hilfe finden](anhang/hilfe-finden.md)
-
