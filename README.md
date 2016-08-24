@@ -1,3 +1,5 @@
+[![Join the chat at https://gitter.im/gitbook-howto/Lobby](https://badges.gitter.im/gitbook-howto/Lobby.svg)](https://gitter.im/gitbook-howto/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # GitBooks entwickeln
 
 GitBooks bieten großartige Möglichkeiten für die Entwicklung von *Open Educational Resources (OER)*. Sie sehen gut aus, basieren nur auf Textdateien und können komfortabel in Versionskontrollsystemen entwickelt werden.
