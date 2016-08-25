@@ -50,6 +50,8 @@
     * Plugins installieren
     * Videos einbinden
     * Quizzes einbinden
+* [Atom konfigurieren](atom/einleitung.md)
+    * [Packages](atom/packages/atom-packages.md)
 * GitBook lokal installieren
     * [Installation unter Linux](installation/linux.md)
     * [Installation unter Mac OS](installation/mac.md)
